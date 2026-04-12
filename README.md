@@ -41,7 +41,7 @@ Technicien en maintenance et développeur web passionné, je suis Moussa GBAMOU.
 - Acquisition de clients & closing
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Lejeune-2025)
+![](https://github-readme-stats.vercel.app/api?username=Lejeune-2025&show_icons=true&theme=dark)
 
 ### ✍️ Ma question
 ''Qui dit que l'IA vas remplacer l'humain ?''
