@@ -1,6 +1,15 @@
 # 💫 About Me:
 Technicien en maintenance et développeur web passionné, je suis Moussa GBAMOU.<br>Spécialisé en backend avec Laravel, j’adore concevoir et maintenir des applications performantes, scalables et bien structurées.<br><br>Actuellement responsable des techniciens dans une PME, j’allie compétences techniques (support informatique, administration réseau, installation et maintenance des équipements) et développement pour offrir des solutions fiables et de qualité à mes utilisateurs.
 
+💡 Je conçois des applications performantes, sécurisées et scalables.
+
+🚀 Responsable technique dans une PME, je combine :
+- Développement backend
+- Administration réseau
+- Support & maintenance IT
+
+🎯 Objectif : créer des solutions fiables et développer des SaaS rentables.
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/FVwBm6xsV) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MoussaGbamou) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@covanix_agency) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Covanix_Agency) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@MoussaGbamou) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moussagbamou6@gmail.com) 
@@ -11,10 +20,30 @@ Technicien en maintenance et développeur web passionné, je suis Moussa GBAMOU.
 # 📊 GitHub Stats:
 [![Moussa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lejeune-2025&theme=github-dark)](https://github.com/Lejeune-2025)
 
+
+# 🚧 Currently Learning & Improving
+![Learning](https://img.shields.io/badge/Learning-Everyday-blue?style=for-the-badge)
+
+🔹 **Frontend**
+- React avancé (performance, architecture scalable)
+- Gestion d’état avec Redux Toolkit
+
+🔹 **Backend**
+- Laravel avancé (API sécurisée, design patterns)
+- Optimisation des performances
+
+🔹 **DevOps & Cloud**
+- Docker & déploiement cloud (AWS)
+- CI/CD (automatisation des déploiements)
+
+🔹 **Business & Freelance**
+- Création de SaaS rentable
+- Acquisition de clients & closing
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Lejeune-2025&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Ma question
 ''Qui dit que l'IA vas remplacer l'humain ?''
 
 # 🚀 Featured Projects
@@ -30,16 +59,34 @@ Technicien en maintenance et développeur web passionné, je suis Moussa GBAMOU.
 
 ## 🧼 Covanix Clean (Projet Business)
 - 📊 Site vitrine + gestion clients
-- ⚙️ Maintenance informatique + services
+- ⚙️ services de nettoyage professionnel
 - 🔗 Repo : (https://github.com/Lejeune-2025/CovanixClean.git)
 
-### 🔝 Top Contributed Repo
-https://github.com/L-Ourabah/guinee2025.git
+# 🤝 Contributions
 
+## 🌍 Projet Guinée 2025
+- 🔗 Repo : https://github.com/L-Ourabah/guinee2025
+- 🛠️ Contribution :
+  - Développement Frontend
+  - Amélioration des fonctionnalités
+
+# 💼 Services
+
+- 🧾 Développement d'applications web (Laravel + React)
+- 🔧 Création d'API REST sécurisées
+- ☁️ Déploiement (AWS, Docker, hébergement)
+- 🛠️ Maintenance informatique & support technique
+- 💳 Intégration de paiements (Stripe)
 ---
+# 📩 Contact Me
+
+💼 Disponible pour missions freelance  
+📧 Email : moussagbamou6@gmail.com  
+📩 Contact : +212779788196
+🚀 Ouvert aux projets SaaS & collaborations
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/ncp/payment/KT69MAZHFWDEW) 
+https://www.paypal.com/ncp/payment/KT69MAZHFWDEW
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
