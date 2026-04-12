@@ -89,5 +89,7 @@ Technicien en maintenance et développeur web passionné, je suis Moussa GBAMOU.
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/KT69MAZHFWDEW)
 
+  [![USDT](https://img.shields.io/badge/USDT-26A17B?style=for-the-badge&logo=tether&logoColor=white)](https://0xAccae212a1b3b8e07826F668ACe4fDE35ac2280d)
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
