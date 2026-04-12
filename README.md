@@ -41,7 +41,7 @@ Technicien en maintenance et développeur web passionné, je suis Moussa GBAMOU.
 - Acquisition de clients & closing
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Lejeune-2025&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=Lejeune-2025)
 
 ### ✍️ Ma question
 ''Qui dit que l'IA vas remplacer l'humain ?''
@@ -53,14 +53,14 @@ Technicien en maintenance et développeur web passionné, je suis Moussa GBAMOU.
 - 🎨 Frontend : React + Redux Toolkit
 - 💳 Intégration Stripe
 - ☁️ Stockage AWS S3
-- 🔗 Repo : (https://github.com/Lejeune-2025/Mg.market_2025.git)
+- 🔗 Repo : https://github.com/Lejeune-2025/Mg.market_2025.git
 
 ---
 
 ## 🧼 Covanix Clean (Projet Business)
 - 📊 Site vitrine + gestion clients
 - ⚙️ services de nettoyage professionnel
-- 🔗 Repo : (https://github.com/Lejeune-2025/CovanixClean.git)
+- 🔗 Repo : https://github.com/Lejeune-2025/CovanixClean.git
 
 # 🤝 Contributions
 
