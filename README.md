@@ -24,17 +24,17 @@ Technicien en maintenance et développeur web passionné, je suis Moussa GBAMOU.
 - 🎨 Frontend : React + Redux Toolkit
 - 💳 Intégration Stripe
 - ☁️ Stockage AWS S3
-- 🔗 Repo : [https://github.com/TON-USERNAME/ton-repo](https://github.com/Lejeune-2025/Mg.market_2025.git)
+- 🔗 Repo : (https://github.com/Lejeune-2025/Mg.market_2025.git)
 
 ---
 
 ## 🧼 Covanix Clean (Projet Business)
 - 📊 Site vitrine + gestion clients
 - ⚙️ Maintenance informatique + services
-- 🔗 Repo : [https://github.com/TON-USERNAME/ton-repo](https://github.com/Lejeune-2025/CovanixClean.git)
+- 🔗 Repo : (https://github.com/Lejeune-2025/CovanixClean.git)
 
 ### 🔝 Top Contributed Repo
-[![](https://github-contributor-stats.vercel.app/api?username=Lejeune-2025&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/L-Ourabah/guinee2025.git)
+https://github.com/L-Ourabah/guinee2025.git
 
 ---
 
