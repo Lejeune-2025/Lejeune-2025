@@ -41,7 +41,8 @@ Technicien en maintenance et développeur web passionné, je suis Moussa GBAMOU.
 - Acquisition de clients & closing
 
 ## 🏆 GitHub Trophies
-![](https://github-readme-stats.vercel.app/api?username=Lejeune-2025&show_icons=true&theme=dark)
+![GitHub followers](https://img.shields.io/github/followers/Lejeune-2025?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Lejeune-2025?style=social)
 
 ### ✍️ Ma question
 ''Qui dit que l'IA vas remplacer l'humain ?''
@@ -82,11 +83,11 @@ Technicien en maintenance et développeur web passionné, je suis Moussa GBAMOU.
 
 💼 Disponible pour missions freelance  
 📧 Email : moussagbamou6@gmail.com  
-📩 Contact : +212779788196
+📩 Contact : +212779788196 <br>
 🚀 Ouvert aux projets SaaS & collaborations
 
   ## 💰 You can help me by Donating
-https://www.paypal.com/ncp/payment/KT69MAZHFWDEW
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/KT69MAZHFWDEW)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
