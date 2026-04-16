@@ -5,7 +5,7 @@
 
 ## 🌐 Me retrouver :
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FVwBm6xsV) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MoussaGbamou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moussa-gbamou-72443b308)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@covanix_agency)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@Covanix_Agency)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moussagbamou6@gmail.com) 
