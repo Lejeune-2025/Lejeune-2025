@@ -7,7 +7,7 @@
 
 ## 🌐 Me retrouver :
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/FVwBm6xsV) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MoussaGbamou) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@covanix_agency) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moussagbamou6@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MoussaGbamou) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/https://www.tiktok.com/@covanix_agency?_r=1&_d=ekkdmgg092dj8m&sec_uid=MS4wLjABAAAASH8HDuRAkM9mKb03YgvWib8BzybY3BKYk8NhHkmybJ7Sq_vytlOfn4nN9hdq4add&share_author_id=7414872061317547041&sharer_language=fr&source=h5_m&u_code=eg82d36cd879lh&item_author_type=1&utm_source=copy&tt_from=copy&enable_checksum=1&utm_medium=ios&share_link_id=CD8E1FEB-9645-4069-8591-BBFDCCB9613B&user_id=7414872061317547041&sec_user_id=MS4wLjABAAAASH8HDuRAkM9mKb03YgvWib8BzybY3BKYk8NhHkmybJ7Sq_vytlOfn4nN9hdq4add&social_share_type=4&ug_btm=b8727,b0&utm_campaign=client_share&share_app_id=1233) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moussagbamou6@gmail.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://https://gravatar.com/sillyf16423fd08)
 
 ---
@@ -100,24 +100,58 @@
 # 🚧 Currently Learning & Improving
 [![Learning](https://img.shields.io/badge/Learning-Everyday-blue?style=for-the-badge)](https://github.com/)
 [![Focus](https://img.shields.io/badge/Focus-DevOps-green?style=for-the-badge)](#)
-[![Goal](https://img.shields.io/badge/Goal-Freelance-orange?style=for-the-badge)](#)
 
-🔹 **Frontend**
-- React avancé (performance, architecture scalable)
-- Gestion d’état avec Redux Toolkit
 
-🔹 **Backend**
-- Laravel avancé (API sécurisée, design patterns)
-- Optimisation des performances
+### 🏃 Progression globale
+![Progress](https://img.shields.io/badge/Global%20Progress-75%25-brightgreen?style=for-the-badge)
 
-🔹 **DevOps & Cloud**
-- Docker & déploiement cloud (AWS)
-- CI/CD (automatisation des déploiements)
+---
 
-🔹 **Business & Freelance**
-- Création de SaaS rentable
-- Acquisition de clients & closing
+### 🎨 Frontend
+🏃 React avancé (performance, architecture scalable)  
+![Progress](https://img.shields.io/badge/Progress-80%25-blue?style=for-the-badge)
 
+🏃 Gestion d’état (Redux Toolkit)  
+![Progress](https://img.shields.io/badge/Progress-75%25-blue?style=for-the-badge)
+
+---
+
+### ⚙️ Backend
+🏃 Laravel avancé (API sécurisée, design patterns)  
+![Progress](https://img.shields.io/badge/Progress-85%25-red?style=for-the-badge)
+
+🏃 Optimisation des performances  
+![Progress](https://img.shields.io/badge/Progress-70%25-red?style=for-the-badge)
+
+---
+
+### ☁️ DevOps & Cloud
+🏃 Docker & déploiement cloud (AWS)  
+![Progress](https://img.shields.io/badge/Progress-65%25-orange?style=for-the-badge)
+
+🏃 CI/CD (automatisation des déploiements)  
+![Progress](https://img.shields.io/badge/Progress-60%25-orange?style=for-the-badge)
+
+---
+
+### 🛡️ Systèmes & Sécurité
+🏃 Windows Server 2025 (administration & déploiement)  
+![Progress](https://img.shields.io/badge/Progress-70%25-informational?style=for-the-badge)
+
+🏃 Préparation certification CCNA  
+![Progress](https://img.shields.io/badge/Progress-55%25-informational?style=for-the-badge)
+
+🏃 Microsoft Defender for Endpoint (sécurisation)  
+![Progress](https://img.shields.io/badge/Progress-65%25-informational?style=for-the-badge)
+
+---
+
+### 💼 Business & Freelance
+🏃 Création de SaaS rentable  
+![Progress](https://img.shields.io/badge/Progress-70%25-success?style=for-the-badge)
+
+🏃 Acquisition clients & closing  
+![Progress](https://img.shields.io/badge/Progress-60%25-success?style=for-the-badge)
 ---
 
 ## 🏆 GitHub Trophies
@@ -137,7 +171,8 @@
 - 🔧 Backend : Laravel API
 - 🎨 Frontend : React + Redux Toolkit
 - 💳 Intégration Stripe
-- ☁️ Stockage AWS S3
+- ☁️ Stockage Mysql appache
+- ⚙️ Site Marketplace 
 - 🔗 Repo : https://github.com/Lejeune-2025/Mg.market_2025.git
 
 ---
@@ -153,6 +188,7 @@
 
 ## 🌍 Projet Guinée 2025
 - 🔗 Repo : https://github.com/L-Ourabah/guinee2025
+- ⚙️ Site vitrine pour entreprise
 - 🛠️ Contribution :
   - Développement Frontend
   - Amélioration des fonctionnalités
