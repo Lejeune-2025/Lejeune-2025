@@ -1,14 +1,15 @@
 # 💫 About Me:
 👋 Salut, moi c’est Moussa, Technicien en maintenance et développeur web passionné. <br>Spécialisé en Laravel, React & SaaS, j’adore concevoir et maintenir des applications performantes, scalables et bien structurées.<br><br>Actuellement je suis responsable des techniciens dans une PME, j’allie compétences techniques (support informatique, administration réseau, installation et maintenance des équipements) pour offrir des solutions fiables et de qualité aux utilisateurs.
 
-🎯 Objectif : créer des solutions fiables et développer des SaaS rentables.
-
 ---
 
 ## 🌐 Me retrouver :
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/FVwBm6xsV) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MoussaGbamou) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/https://www.tiktok.com/@covanix_agency?_r=1&_d=ekkdmgg092dj8m&sec_uid=MS4wLjABAAAASH8HDuRAkM9mKb03YgvWib8BzybY3BKYk8NhHkmybJ7Sq_vytlOfn4nN9hdq4add&share_author_id=7414872061317547041&sharer_language=fr&source=h5_m&u_code=eg82d36cd879lh&item_author_type=1&utm_source=copy&tt_from=copy&enable_checksum=1&utm_medium=ios&share_link_id=CD8E1FEB-9645-4069-8591-BBFDCCB9613B&user_id=7414872061317547041&sec_user_id=MS4wLjABAAAASH8HDuRAkM9mKb03YgvWib8BzybY3BKYk8NhHkmybJ7Sq_vytlOfn4nN9hdq4add&social_share_type=4&ug_btm=b8727,b0&utm_campaign=client_share&share_app_id=1233) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moussagbamou6@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://https://gravatar.com/sillyf16423fd08)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FVwBm6xsV) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MoussaGbamou) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@covanix_agency) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)] (https://www.youtube.com/@Covanix_Agency)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moussagbamou6@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://gravatar.com/sillyf16423fd08)
 
 ---
 
@@ -116,7 +117,7 @@
 
 ---
 
-## 📈 Most Used Languages
+## 📈 Langues les plus utilisées
 
 <p align="center">
 
