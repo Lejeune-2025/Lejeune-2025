@@ -93,19 +93,19 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 Statistiques GitHub :
 [![Moussa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lejeune-2025&theme=github-dark)](https://github.com/Lejeune-2025)
 
 ---
 
-# 🚧 Currently Learning & Improving
+# 🚧 Actuellement en apprentissage et en amélioration
 
 [![Learning](https://img.shields.io/badge/Learning-Everyday-blue?style=for-the-badge)](https://github.com/)
 [![Focus](https://img.shields.io/badge/Focus-DevOps-green?style=for-the-badge)](#)
 
 ---
 
-## 📊 GitHub Dashboard
+## 📊 Tableau de bord GitHub
 
 <p align="center">
 
@@ -181,7 +181,7 @@
 ![Progress](https://img.shields.io/badge/Progress-60%25-success?style=for-the-badge)
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophées GitHub
 ![GitHub followers](https://img.shields.io/github/followers/Lejeune-2025?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Lejeune-2025?style=social)
 
@@ -192,7 +192,7 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projets en vedette
 
 ## 🧾 SaaS Facturation (Laravel + React)
 - 🔧 Backend : Laravel API
