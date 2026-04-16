@@ -104,71 +104,58 @@
 
 ---
 
-## 🐍 Contribution Activity (Live)
-
-![Snake animation](https://github.com/Lejeune-2025/Lejeune-2025/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📊 GitHub Dashboard
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Lejeune-2025&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Lejeune-2025&show_icons=true&theme=tokyonight&cache_seconds=0)
 
-![Streak](https://streak-stats.demolab.com/?user=Lejeune-2025&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=Lejeune-2025&theme=tokyonight&cache_seconds=0)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Lejeune-2025&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
 ---
 
-## 🏃 Progression globale
-
-![Progress](https://progress-bar.dev/75/?title=Global%20Progress&width=600)
+### 🏃 Progression globale
+![Progress](https://img.shields.io/badge/Global%20Progress-75%25-brightgreen?style=for-the-badge)
 
 ---
 
 ### 🎨 Frontend
 🏃 React avancé (performance, architecture scalable)  
-![Progress](https://progress-bar.dev/80/?title=React)
+![Progress](https://img.shields.io/badge/Progress-80%25-blue?style=for-the-badge)
 
 🏃 Gestion d’état (Redux Toolkit)  
-![Progress](https://progress-bar.dev/75/?title=Redux)
+![Progress](https://img.shields.io/badge/Progress-75%25-blue?style=for-the-badge)
 
 ---
 
 ### ⚙️ Backend
 🏃 Laravel avancé (API sécurisée, design patterns)  
-![Progress](https://progress-bar.dev/85/?title=Laravel)
+![Progress](https://img.shields.io/badge/Progress-85%25-red?style=for-the-badge)
 
 🏃 Optimisation des performances  
-![Progress](https://progress-bar.dev/70/?title=Performance)
+![Progress](https://img.shields.io/badge/Progress-70%25-red?style=for-the-badge)
 
 ---
 
 ### ☁️ DevOps & Cloud
 🏃 Docker & déploiement cloud (AWS)  
-![Progress](https://progress-bar.dev/65/?title=Docker%20%2B%20AWS)
+![Progress](https://img.shields.io/badge/Progress-65%25-orange?style=for-the-badge)
 
 🏃 CI/CD (automatisation des déploiements)  
-![Progress](https://progress-bar.dev/60/?title=CI/CD)
+![Progress](https://img.shields.io/badge/Progress-60%25-orange?style=for-the-badge)
 
 ---
 
 ### 🛡️ Systèmes & Sécurité
 🏃 Windows Server 2025 (administration & déploiement)  
-![Progress](https://progress-bar.dev/70/?title=Windows%20Server)
+![Progress](https://img.shields.io/badge/Progress-70%25-informational?style=for-the-badge)
 
 🏃 Préparation certification CCNA  
-![Progress](https://progress-bar.dev/55/?title=CCNA)
+![Progress](https://img.shields.io/badge/Progress-55%25-informational?style=for-the-badge)
 
 🏃 Microsoft Defender for Endpoint (sécurisation)  
-![Progress](https://progress-bar.dev/65/?title=Security)
+![Progress](https://img.shields.io/badge/Progress-65%25-informational?style=for-the-badge)
 
----
-
-### 💼 Business & Freelance
-🏃 Création de SaaS rentable  
-![Progress](https://progress-bar.dev/70/?title=SaaS)
-
-🏃 Acquisition clients & closing  
-![Progress](https://progress-bar.dev/60/?title=Closing)
 ---
 
 ### 💼 Business & Freelance
