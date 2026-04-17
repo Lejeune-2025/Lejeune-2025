@@ -122,14 +122,11 @@
 
 # 🚧 Actuellement en apprentissage et en amélioration
 
-[![Learning](https://img.shields.io/badge/Learning-Everyday-blue?style=for-the-badge)](https://github.com/)
-[![Focus](https://img.shields.io/badge/Focus-DevOps-green?style=for-the-badge)](#)
-
----
-
 ### 🏃 Progression globale
 ![Progress](https://img.shields.io/badge/Global%20Progress-53%25-brightgreen?style=for-the-badge)
 
+[![Learning](https://img.shields.io/badge/Learning-Everyday-blue?style=for-the-badge)](https://github.com/)
+[![Focus](https://img.shields.io/badge/Focus-DevOps-green?style=for-the-badge)](#)
 ---
 
 ### 🎨 Frontend
