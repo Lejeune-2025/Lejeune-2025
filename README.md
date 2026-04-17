@@ -98,13 +98,6 @@
 
 ---
 
-# 🚧 Actuellement en apprentissage et en amélioration
-
-[![Learning](https://img.shields.io/badge/Learning-Everyday-blue?style=for-the-badge)](https://github.com/)
-[![Focus](https://img.shields.io/badge/Focus-DevOps-green?style=for-the-badge)](#)
-
----
-
 ## 📊 Tableau de bord GitHub
 
 <p align="center">
@@ -125,36 +118,41 @@
 
 </p>
 
+---
 
+# 🚧 Actuellement en apprentissage et en amélioration
+
+[![Learning](https://img.shields.io/badge/Learning-Everyday-blue?style=for-the-badge)](https://github.com/)
+[![Focus](https://img.shields.io/badge/Focus-DevOps-green?style=for-the-badge)](#)
 
 ---
 
 ### 🏃 Progression globale
-![Progress](https://img.shields.io/badge/Global%20Progress-75%25-brightgreen?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Global%20Progress-53%25-brightgreen?style=for-the-badge)
 
 ---
 
 ### 🎨 Frontend
 🏃 React avancé (performance, architecture scalable)  
-![Progress](https://img.shields.io/badge/Progress-80%25-blue?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-60%25-blue?style=for-the-badge)
 
 🏃 Gestion d’état (Redux Toolkit)  
-![Progress](https://img.shields.io/badge/Progress-75%25-blue?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-45%25-blue?style=for-the-badge)
 
 ---
 
 ### ⚙️ Backend
 🏃 Laravel avancé (API sécurisée, design patterns)  
-![Progress](https://img.shields.io/badge/Progress-85%25-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-55%25-red?style=for-the-badge)
 
 🏃 Optimisation des performances  
-![Progress](https://img.shields.io/badge/Progress-70%25-red?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-40%25-red?style=for-the-badge)
 
 ---
 
 ### ☁️ DevOps & Cloud
 🏃 Docker & déploiement cloud (AWS)  
-![Progress](https://img.shields.io/badge/Progress-65%25-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-55%25-orange?style=for-the-badge)
 
 🏃 CI/CD (automatisation des déploiements)  
 ![Progress](https://img.shields.io/badge/Progress-60%25-orange?style=for-the-badge)
@@ -163,13 +161,13 @@
 
 ### 🛡️ Systèmes & Sécurité
 🏃 Windows Server 2025 (administration & déploiement)  
-![Progress](https://img.shields.io/badge/Progress-70%25-informational?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-50%25-informational?style=for-the-badge)
 
 🏃 Préparation certification CCNA  
-![Progress](https://img.shields.io/badge/Progress-55%25-informational?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-35%25-informational?style=for-the-badge)
 
 🏃 Microsoft Defender for Endpoint (sécurisation)  
-![Progress](https://img.shields.io/badge/Progress-65%25-informational?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-45%25-informational?style=for-the-badge)
 
 ---
 
@@ -178,7 +176,7 @@
 ![Progress](https://img.shields.io/badge/Progress-70%25-success?style=for-the-badge)
 
 🏃 Acquisition clients & closing  
-![Progress](https://img.shields.io/badge/Progress-60%25-success?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-70%25-success?style=for-the-badge)
 ---
 
 ## 🏆 Trophées GitHub
