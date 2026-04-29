@@ -127,7 +127,9 @@ Aujoud'hui spécialisé en Laravel, React & SaaS, j’adore concevoir et mainten
 ![Progress](https://img.shields.io/badge/Global%20Progress-53%25-brightgreen?style=for-the-badge)
 
 [![Learning](https://img.shields.io/badge/Learning-Everyday-blue?style=for-the-badge)](https://github.com/)
+
 [![Focus](https://img.shields.io/badge/Focus-DevOps-green?style=for-the-badge)](#)
+
 ---
 
 ### 🎨 Frontend
