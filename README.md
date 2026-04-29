@@ -1,5 +1,6 @@
-# 💫 About Me:
-👋 Salut, moi c’est Moussa, Technicien en maintenance et développeur web passionné. <br>Spécialisé en Laravel, React & SaaS, j’adore concevoir et maintenir des applications performantes, scalables et bien structurées.<br><br>Actuellement je suis responsable des techniciens dans une PME, j’allie compétences techniques (support informatique, administration réseau, installation et maintenance des équipements) pour offrir des solutions fiables et de qualité aux utilisateurs.
+# 💫 👋 Salut, moi c’est Moussa, Technicien en maintenance et développeur web passionné.
+
+Aujoud'hui spécialisé en Laravel, React & SaaS, j’adore concevoir et maintenir des applications performantes, scalables et bien structurées.<br><br>Actuellement je suis responsable des techniciens dans une PME, j’allie compétences techniques (support informatique, administration réseau, installation et maintenance des équipements) pour offrir des solutions fiables et de qualité aux utilisateurs.
 
 ---
 
