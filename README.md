@@ -292,45 +292,71 @@ Aujoud'hui spécialisé en Laravel, React & SaaS, j’adore concevoir et mainten
 
 # 🚀 Projets en vedette
 
+<div align="center">
+
 ## 🧾 SaaS Facturation (Laravel + React)
 
-- 🔧 Backend : Laravel API
-- 🎨 Frontend : React + Redux Toolkit
-- 💳 Intégration Stripe
-- ☁️ Stockage Mysql appache
-- ⚙️ Site Marketplace
-- 🔗 Repo : https://github.com/Lejeune-2025/Mg.market_2025.git
+</div>
+
+<ul align="left">
+  <li>🔧 Backend : Laravel API</li>
+  <li>🎨 Frontend : React + Redux Toolkit</li>
+  <li>💳 Intégration Stripe</li>
+  <li>☁️ Stockage Mysql appache</li>
+  <li>⚙️ Site Marketplace</li>
+  <li>🔗 Repo : https://github.com/Lejeune-2025/Mg.market_2025.git</li>
+</ul>
 
 ---
+
+<div align="center">
 
 ## 🧼 Covanix Clean (Projet Business)
 
-- 📊 Site vitrine + gestion clients
-- ⚙️ services de nettoyage professionnel
-- 🔗 Repo : https://github.com/Lejeune-2025/CovanixClean.git
+</div>
+
+<ul align="left">
+  <li>📊 Site vitrine + gestion clients</li>
+  <li>⚙️ services de nettoyage professionnel</li>
+  <li>🔗 Repo : https://github.com/Lejeune-2025/CovanixClean.git</li>
+</ul>
 
 ---
+
+<div align="center">
 
 # 🤝 Contributions
 
 ## 🌍 Projet Guinée 2025
 
-- 🔗 Repo : https://github.com/L-Ourabah/guinee2025
-- ⚙️ Site vitrine pour entreprise
-- 🛠️ Contribution :
-  - Développement Frontend
-  - Amélioration des fonctionnalités
+</div>
+
+<ul align="left">
+  <li>🔗 Repo : https://github.com/L-Ourabah/guinee2025</li>
+  <li>⚙️ Site vitrine pour entreprise</li>
+  <li>🛠️ Contribution :
+    <ul>
+      <li>Développement Frontend</li>
+      <li>Amélioration des fonctionnalités</li>
+    </ul>
+  </li>
+</ul>
 
 ---
 
+<div align="center">
+
 # 💼 Services
 
-- 🧾 Développement d'applications web (Laravel + React)
-- 🔧 Création d'API REST sécurisées
-- ☁️ Déploiement (AWS, Docker, hébergement)
-- 🛠️ Maintenance informatique & support technique
-- 💳 Intégration de paiements (Stripe)
+</div>
 
+<ul align="left">
+  <li>🧾 Développement d'applications web (Laravel + React)</li>
+  <li>🔧 Création d'API REST sécurisées</li>
+  <li>☁️ Déploiement (AWS, Docker, hébergement)</li>
+  <li>🛠️ Maintenance informatique & support technique</li>
+  <li>💳 Intégration de paiements (Stripe)</li>
+</ul>
 
 ---
 
