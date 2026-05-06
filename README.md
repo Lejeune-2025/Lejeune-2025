@@ -4,7 +4,7 @@ Aujoud'hui spécialisé en Laravel, React & SaaS, j’adore concevoir et mainten
 
 ---
 
-## 🌐 Me retrouver :
+<h2 align="center">## 🌐 Me retrouver :</h2>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FVwBm6xsV) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moussa-gbamou-72443b308)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@covanix_agency)
@@ -16,7 +16,7 @@ Aujoud'hui spécialisé en Laravel, React & SaaS, j’adore concevoir et mainten
 
 # 💻 Technologie :
 
-### 🎨 Frontend & Frameworks
+<h2 align="center">### 🎨 Frontend & Frameworks</h2>
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
@@ -27,7 +27,7 @@ Aujoud'hui spécialisé en Laravel, React & SaaS, j’adore concevoir et mainten
 
 ---
 
-### ⚙️ Backend
+<h2 align="center">### ⚙️ Backend</h2>
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
@@ -35,7 +35,7 @@ Aujoud'hui spécialisé en Laravel, React & SaaS, j’adore concevoir et mainten
 
 ---
 
-### Database
+<h2 align="center"> Database</h2>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -44,7 +44,7 @@ Aujoud'hui spécialisé en Laravel, React & SaaS, j’adore concevoir et mainten
 
 ---
 
-### ☁️ Cloud & Hébergement
+<h2 align="center"> ☁️ Cloud & Hébergement </h2>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -52,7 +52,7 @@ Aujoud'hui spécialisé en Laravel, React & SaaS, j’adore concevoir et mainten
 
 ---
 
-### 🧰 Outils & DevOps
+<h2 align="center"> 🧰 Outils & DevOps</h2>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -62,7 +62,7 @@ Aujoud'hui spécialisé en Laravel, React & SaaS, j’adore concevoir et mainten
 
 ---
 
-### 🎨 Design & Creatif
+<h2 align="center"> 🎨 Design & Creatif</h2>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff)
@@ -70,18 +70,18 @@ Aujoud'hui spécialisé en Laravel, React & SaaS, j’adore concevoir et mainten
 
 ---
 
-### 🌐 CMS & Platformes
+<h2 align="center"> 🌐 CMS & </h2>
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ---
 
-### 🔐 Networking & Systems
+<h2 align="center">🔐 Networking & Systems</h2>
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 
 ---
 
-### 🧪 Autre / Divers
+<h2 align="center"> 🧪 Autre / Divers </h2>
 ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 ![Reading](https://img.shields.io/badge/Reading-Learning-blue?style=for-the-badge)
@@ -94,12 +94,12 @@ Aujoud'hui spécialisé en Laravel, React & SaaS, j’adore concevoir et mainten
 
 ---
 
-# 📊 Statistiques GitHub :
+<h2 align="center"> 📊 Statistiques GitHub :</h2>
 [![Moussa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lejeune-2025&theme=github-dark)](https://github.com/Lejeune-2025)
 
 ---
 
-## 📊 Tableau de bord GitHub
+<h2 align="center"> 📊 Tableau de bord GitHub</h2>
 
 <p align="center">
 
@@ -111,7 +111,7 @@ Aujoud'hui spécialisé en Laravel, React & SaaS, j’adore concevoir et mainten
 
 ---
 
-<h2 align="center">##📈 Langues les plus utilisées</h2>
+<h2 align="center">📈 Langues les plus utilisées</h2>
 
 <p align="center">
 
