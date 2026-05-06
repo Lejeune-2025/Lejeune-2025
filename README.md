@@ -298,7 +298,7 @@ Aujoud'hui spécialisé en Laravel, React & SaaS, j’adore concevoir et mainten
 
 </div>
 
-<ul align="center">
+<ul align="center" style="list-style: none; padding: 0;">
   <li>🔧 Backend : Laravel API</li>
   <li>🎨 Frontend : React + Redux Toolkit</li>
   <li>💳 Intégration Stripe</li>
@@ -315,7 +315,7 @@ Aujoud'hui spécialisé en Laravel, React & SaaS, j’adore concevoir et mainten
 
 </div>
 
-<ul align="center">
+<ul align="center" style="list-style: none; padding: 0;">
   <li>📊 Site vitrine + gestion clients</li>
   <li>⚙️ services de nettoyage professionnel</li>
   <li>🔗 Repo : https://github.com/Lejeune-2025/CovanixClean.git</li>
@@ -331,11 +331,11 @@ Aujoud'hui spécialisé en Laravel, React & SaaS, j’adore concevoir et mainten
 
 </div>
 
-<ul align="center">
+<ul align="center" style="list-style: none; padding: 0;">
   <li>🔗 Repo : https://github.com/L-Ourabah/guinee2025</li>
   <li>⚙️ Site vitrine pour entreprise</li>
   <li>🛠️ Contribution :
-    <ul>
+    <ul style="list-style: none; padding: 0;">
       <li>Développement Frontend</li>
       <li>Amélioration des fonctionnalités</li>
     </ul>
@@ -350,7 +350,7 @@ Aujoud'hui spécialisé en Laravel, React & SaaS, j’adore concevoir et mainten
 
 </div>
 
-<ul align="center">
+<ul align="center" style="list-style: none; padding: 0;">
   <li>🧾 Développement d'applications web (Laravel + React)</li>
   <li>🔧 Création d'API REST sécurisées</li>
   <li>☁️ Déploiement (AWS, Docker, hébergement)</li>
