@@ -181,9 +181,98 @@ Aujoud'hui spécialisé en Laravel, React & SaaS, j’adore concevoir et mainten
 
 ![Progress](https://img.shields.io/badge/Global%20Progress-53%25-brightgreen?style=for-the-badge)
 
+
+
+[![Learning](https://img.shields.io/badge/Learning-Everyday-blue?style=for-the-badge)](https://github.com/)
+
+
+
+[![Focus](https://img.shields.io/badge/Focus-DevOps-green?style=for-the-badge)](#)
+
+
 ---
 
+
+### 🎨 Frontend
+
+🏃 React avancé (performance, architecture scalable)  
+
+![Progress](https://img.shields.io/badge/Progress-60%25-blue?style=for-the-badge)
+
+
+
+🏃 Gestion d’état (Redux Toolkit)  
+
+![Progress](https://img.shields.io/badge/Progress-45%25-blue?style=for-the-badge)
+
+
+---
+
+
+### ⚙️ Backend
+
+🏃 Laravel avancé (API sécurisée, design patterns)  
+
+![Progress](https://img.shields.io/badge/Progress-55%25-red?style=for-the-badge)
+
+
+🏃 Optimisation des performances  
+
+![Progress](https://img.shields.io/badge/Progress-40%25-red?style=for-the-badge)
+
+
+---
+
+
+### ☁️ DevOps & Cloud
+
+🏃 Docker & déploiement cloud (AWS)  
+
+![Progress](https://img.shields.io/badge/Progress-55%25-orange?style=for-the-badge)
+
+
+
+🏃 CI/CD (automatisation des déploiements)  
+
+![Progress](https://img.shields.io/badge/Progress-60%25-orange?style=for-the-badge)
+
+
+
+---
+
+
+
+### 🛡️ Systèmes & Sécurité
+
+🏃 Windows Server 2025 (administration & déploiement)  
+
+![Progress](https://img.shields.io/badge/Progress-50%25-informational?style=for-the-badge)
+
+
+
+🏃 Préparation certification CCNA  
+
+![Progress](https://img.shields.io/badge/Progress-35%25-informational?style=for-the-badge)
+
+
+
+🏃 Microsoft Defender for Endpoint (sécurisation)  
+
+![Progress](https://img.shields.io/badge/Progress-45%25-informational?style=for-the-badge)
+
+
+---
+
+
 ### 💼 Business & Freelance
+
+🏃 Création de SaaS rentable  
+
+![Progress](https://img.shields.io/badge/Progress-70%25-success?style=for-the-badge)
+
+
+
+🏃 Acquisition clients & closing  
 
 ![Progress](https://img.shields.io/badge/Progress-70%25-success?style=for-the-badge)
 
@@ -203,19 +292,86 @@ Aujoud'hui spécialisé en Laravel, React & SaaS, j’adore concevoir et mainten
 
 # 🚀 Projets en vedette
 
-## 🧾 SaaS Facturation
-Laravel + React + Stripe
+## 🧾 SaaS Facturation (Laravel + React)
 
-## 🧼 Covanix Clean
-Site vitrine + gestion clients
+- 🔧 Backend : Laravel API
+
+- 🎨 Frontend : React + Redux Toolkit
+
+- 💳 Intégration Stripe
+
+- ☁️ Stockage Mysql appache
+
+- ⚙️ Site Marketplace 
+
+- 🔗 Repo : https://github.com/Lejeune-2025/Mg.market_2025.git
+
+
+---
+
+
+## 🧼 Covanix Clean (Projet Business)
+
+- 📊 Site vitrine + gestion clients
+
+- ⚙️ services de nettoyage professionnel
+
+- 🔗 Repo : https://github.com/Lejeune-2025/CovanixClean.git
+
+
+---
+
+
+# 🤝 Contributions
+
+## 🌍 Projet Guinée 2025
+
+- 🔗 Repo : https://github.com/L-Ourabah/guinee2025
+
+- ⚙️ Site vitrine pour entreprise
+
+- 🛠️ Contribution :
+
+  - Développement Frontend
+
+  - Amélioration des fonctionnalités
+
+
+---
+
+
+# 💼 Services
+
+
+- 🧾 Développement d'applications web (Laravel + React)
+
+- 🔧 Création d'API REST sécurisées
+
+- ☁️ Déploiement (AWS, Docker, hébergement)
+
+- 🛠️ Maintenance informatique & support technique
+
+- 💳 Intégration de paiements (Stripe)
+
+  
+
+---
+
+
 
 ---
 
 # 📩 Contact Moi
 
-💼 Disponible pour missions freelance  
+💼 Disponible pour missions freelance et pour emploie
+
 📧 Email : moussagbamou6@gmail.com  
-📩 Contact : +212779788196  
+
+📩 Contact : +212779788196 <br>
+
+🚀 Ouvert aux projets SaaS & collaborations
+
+ 
 
 ---
 
