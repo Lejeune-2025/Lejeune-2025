@@ -295,68 +295,41 @@ Aujoud'hui spécialisé en Laravel, React & SaaS, j’adore concevoir et mainten
 ## 🧾 SaaS Facturation (Laravel + React)
 
 - 🔧 Backend : Laravel API
-
 - 🎨 Frontend : React + Redux Toolkit
-
 - 💳 Intégration Stripe
-
 - ☁️ Stockage Mysql appache
-
-- ⚙️ Site Marketplace 
-
+- ⚙️ Site Marketplace
 - 🔗 Repo : https://github.com/Lejeune-2025/Mg.market_2025.git
 
-
 ---
-
 
 ## 🧼 Covanix Clean (Projet Business)
 
 - 📊 Site vitrine + gestion clients
-
 - ⚙️ services de nettoyage professionnel
-
 - 🔗 Repo : https://github.com/Lejeune-2025/CovanixClean.git
 
-
 ---
-
 
 # 🤝 Contributions
 
 ## 🌍 Projet Guinée 2025
 
 - 🔗 Repo : https://github.com/L-Ourabah/guinee2025
-
 - ⚙️ Site vitrine pour entreprise
-
 - 🛠️ Contribution :
-
   - Développement Frontend
-
   - Amélioration des fonctionnalités
 
-
 ---
-
 
 # 💼 Services
 
-
 - 🧾 Développement d'applications web (Laravel + React)
-
 - 🔧 Création d'API REST sécurisées
-
 - ☁️ Déploiement (AWS, Docker, hébergement)
-
 - 🛠️ Maintenance informatique & support technique
-
 - 💳 Intégration de paiements (Stripe)
-
-  
-
----
-
 
 
 ---
