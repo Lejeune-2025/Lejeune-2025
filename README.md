@@ -115,8 +115,11 @@ Aujoud'hui spécialisé en Laravel, React & SaaS, j’adore concevoir et mainten
 
 <p align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lejeune-2025&theme=tokyonight" />
 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lejeune-2025&theme=tokyonight" height="180"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lejeune-2025&theme=tokyonight" height="180"/>
+  
 </p>
 
 ---
