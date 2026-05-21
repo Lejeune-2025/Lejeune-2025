@@ -155,9 +155,9 @@ Aujoud'hui spécialisé en Laravel, React & SaaS, j’adore concevoir et mainten
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lejeune-2025&show_icons=true&theme=tokyonight&cache_seconds=0" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Lejeune-2025&show_icons=true&theme=tokyonight" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lejeune-2025&theme=tokyonight&cache_seconds=0" height="180"/>
+<img src="https://streak-stats.demolab.com?user=Lejeune-2025&theme=tokyonight" height="180"/>
 
 </div>
 
